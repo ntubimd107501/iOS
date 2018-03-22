@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8210E76C202ADDA40073C0EE /* GuideContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8210E76B202ADDA40073C0EE /* GuideContentViewController.swift */; };
+		8218BA3D2029C72D00DDF8DB /* KnowledgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8218BA3C2029C72D00DDF8DB /* KnowledgeViewController.swift */; };
+		82B607011FC59586002D055D /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B607001FC59586002D055D /* MenuTableViewCell.swift */; };
+		82B607031FC5D19B002D055D /* LessonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B607021FC5D19B002D055D /* LessonViewController.swift */; };
+		82B607051FC5D8C0002D055D /* DogInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B607041FC5D8C0002D055D /* DogInfoViewController.swift */; };
+		82B607071FC5DA4D002D055D /* GuideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B607061FC5DA4D002D055D /* GuideViewController.swift */; };
+		82B607091FC5DB35002D055D /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B607081FC5DB35002D055D /* AboutViewController.swift */; };
+		82C2A65120525817005FE94E /* getUserDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C2A65020525816005FE94E /* getUserDetail.swift */; };
 		82C3C0EA1FA846A200E64489 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C3C0E91FA846A200E64489 /* AppDelegate.swift */; };
 		82C3C0EC1FA846A200E64489 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C3C0EB1FA846A200E64489 /* ViewController.swift */; };
 		82C3C0EF1FA846A300E64489 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82C3C0ED1FA846A300E64489 /* Main.storyboard */; };
@@ -14,6 +22,10 @@
 		82C3C0F41FA846A300E64489 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82C3C0F21FA846A300E64489 /* LaunchScreen.storyboard */; };
 		82C3C0FF1FA846A400E64489 /* ezgo1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C3C0FE1FA846A400E64489 /* ezgo1Tests.swift */; };
 		82C3C10A1FA846A400E64489 /* ezgo1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82C3C1091FA846A400E64489 /* ezgo1UITests.swift */; };
+		82C3C11A1FA8472700E64489 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C3C1191FA8472600E64489 /* SWRevealViewController.m */; };
+		82F9BBA21FAF35B900CEE8A2 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F9BBA11FAF35B900CEE8A2 /* MenuViewController.swift */; };
+		C381486A203FDD94009A66B9 /* GuidePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3814869203FDD94009A66B9 /* GuidePageViewController.swift */; };
+		C381486C203FDE31009A66B9 /* KnowledgeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C381486B203FDE31009A66B9 /* KnowledgeDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +46,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8210E76B202ADDA40073C0EE /* GuideContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuideContentViewController.swift; sourceTree = "<group>"; };
+		8218BA3C2029C72D00DDF8DB /* KnowledgeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowledgeViewController.swift; sourceTree = "<group>"; };
+		82B607001FC59586002D055D /* MenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
+		82B607021FC5D19B002D055D /* LessonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonViewController.swift; sourceTree = "<group>"; };
+		82B607041FC5D8C0002D055D /* DogInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogInfoViewController.swift; sourceTree = "<group>"; };
+		82B607061FC5DA4D002D055D /* GuideViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideViewController.swift; sourceTree = "<group>"; };
+		82B607081FC5DB35002D055D /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		82C2A65020525816005FE94E /* getUserDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getUserDetail.swift; sourceTree = "<group>"; };
 		82C3C0E61FA846A200E64489 /* ezgo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ezgo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82C3C0E91FA846A200E64489 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82C3C0EB1FA846A200E64489 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +67,12 @@
 		82C3C1051FA846A400E64489 /* ezgo1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ezgo1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82C3C1091FA846A400E64489 /* ezgo1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ezgo1UITests.swift; sourceTree = "<group>"; };
 		82C3C10B1FA846A400E64489 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82C3C1171FA8472500E64489 /* ezgo1-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ezgo1-Bridging-Header.h"; sourceTree = "<group>"; };
+		82C3C1181FA8472600E64489 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		82C3C1191FA8472600E64489 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		82F9BBA11FAF35B900CEE8A2 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		C3814869203FDD94009A66B9 /* GuidePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuidePageViewController.swift; sourceTree = "<group>"; };
+		C381486B203FDE31009A66B9 /* KnowledgeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnowledgeDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +123,26 @@
 		82C3C0E81FA846A200E64489 /* ezgo1 */ = {
 			isa = PBXGroup;
 			children = (
+				8210E76B202ADDA40073C0EE /* GuideContentViewController.swift */,
+				C3814869203FDD94009A66B9 /* GuidePageViewController.swift */,
+				82C3C1181FA8472600E64489 /* SWRevealViewController.h */,
+				82C3C1191FA8472600E64489 /* SWRevealViewController.m */,
 				82C3C0E91FA846A200E64489 /* AppDelegate.swift */,
 				82C3C0EB1FA846A200E64489 /* ViewController.swift */,
 				82C3C0ED1FA846A300E64489 /* Main.storyboard */,
+				C381486B203FDE31009A66B9 /* KnowledgeDetailViewController.swift */,
+				82B607081FC5DB35002D055D /* AboutViewController.swift */,
+				82B607061FC5DA4D002D055D /* GuideViewController.swift */,
+				82B607041FC5D8C0002D055D /* DogInfoViewController.swift */,
+				82B607021FC5D19B002D055D /* LessonViewController.swift */,
+				82F9BBA11FAF35B900CEE8A2 /* MenuViewController.swift */,
 				82C3C0F01FA846A300E64489 /* Assets.xcassets */,
 				82C3C0F21FA846A300E64489 /* LaunchScreen.storyboard */,
 				82C3C0F51FA846A300E64489 /* Info.plist */,
+				82C3C1171FA8472500E64489 /* ezgo1-Bridging-Header.h */,
+				82B607001FC59586002D055D /* MenuTableViewCell.swift */,
+				8218BA3C2029C72D00DDF8DB /* KnowledgeViewController.swift */,
+				82C2A65020525816005FE94E /* getUserDetail.swift */,
 			);
 			path = ezgo1;
 			sourceTree = "<group>";
@@ -193,6 +233,7 @@
 				TargetAttributes = {
 					82C3C0E51FA846A200E64489 = {
 						CreatedOnToolsVersion = 9.0.1;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					82C3C0F91FA846A400E64489 = {
@@ -259,8 +300,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8210E76C202ADDA40073C0EE /* GuideContentViewController.swift in Sources */,
+				82B607051FC5D8C0002D055D /* DogInfoViewController.swift in Sources */,
+				82B607071FC5DA4D002D055D /* GuideViewController.swift in Sources */,
 				82C3C0EC1FA846A200E64489 /* ViewController.swift in Sources */,
+				82B607091FC5DB35002D055D /* AboutViewController.swift in Sources */,
 				82C3C0EA1FA846A200E64489 /* AppDelegate.swift in Sources */,
+				8218BA3D2029C72D00DDF8DB /* KnowledgeViewController.swift in Sources */,
+				82C3C11A1FA8472700E64489 /* SWRevealViewController.m in Sources */,
+				82C2A65120525817005FE94E /* getUserDetail.swift in Sources */,
+				82F9BBA21FAF35B900CEE8A2 /* MenuViewController.swift in Sources */,
+				82B607031FC5D19B002D055D /* LessonViewController.swift in Sources */,
+				82B607011FC59586002D055D /* MenuTableViewCell.swift in Sources */,
+				C381486A203FDD94009A66B9 /* GuidePageViewController.swift in Sources */,
+				C381486C203FDE31009A66B9 /* KnowledgeDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,11 +479,17 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GN4HF36227;
+				GCC_REUSE_STRINGS = NO;
 				INFOPLIST_FILE = ezgo1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = case.ezgo1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "ezgo1/ezgo1-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -440,11 +499,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = GN4HF36227;
+				GCC_REUSE_STRINGS = NO;
 				INFOPLIST_FILE = ezgo1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = case.ezgo1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "ezgo1/ezgo1-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
